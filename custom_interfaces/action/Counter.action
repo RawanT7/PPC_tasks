@@ -1,0 +1,9 @@
+#Goal
+int64 start_number
+int64 target_number
+---
+#Result
+int64 count
+---
+#Feedback
+int64 current_count
