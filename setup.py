@@ -22,6 +22,8 @@ setup(
         'console_scripts': [
             'mission_server = ppc_task.mission_server:main',
             'behavior = ppc_task.behavior:main',
+            'global_planner = ppc_task.global_planner:main',
+            'local_planner= ppc_task.local_planner:main',
         ],
     },
 )
